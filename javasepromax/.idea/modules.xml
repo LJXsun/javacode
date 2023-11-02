@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/oop-app1/oop-app1.iml" filepath="$PROJECT_DIR$/oop-app1/oop-app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-app2/api-app2.iml" filepath="$PROJECT_DIR$/api-app2/api-app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-app3/api-app3.iml" filepath="$PROJECT_DIR$/api-app3/api-app3.iml" />
     </modules>
   </component>
 </project>
